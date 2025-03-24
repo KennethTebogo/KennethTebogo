@@ -6,17 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Personal Profile](https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/)
+- 🔭 I’m currently working on: [Personal Profile](https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/)
 
-- 👨‍💻 All of my projects are available at [Kenneth Tebogo Khondowe](https://github.com/KennethTebogo)
+- 👨‍💻 All of my projects are available at: [Kenneth Tebogo Khondowe](https://github.com/KennethTebogo)
 
-- 📝 I regularly write articles on [x](https://x.com/EverythingOnX)
+- 📝 I regularly write articles on: [x](https://x.com/EverythingOnX)
 
 - 💬 Ask me about: **Java, Python, C, HTML, PHP, JavaScript,CSS**
 
 
-- 📫 How to reach me  <p align="left"><a href="https://mail.google.com/mail/kennethtebogo17@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Kenneth Tebogo Khondowe" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me: [G-Mail](https://mail.google.com/mail/kennethtebogo17@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
