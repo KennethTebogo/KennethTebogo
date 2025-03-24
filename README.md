@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at: [Kenneth Tebogo Khondowe](https://github.com/KennethTebogo)
 
-- 📝 I regularly share everything on: [x](https://x.com/EverythingOnX)
+- 📝 I regularly share everything on: [X](https://x.com/EverythingOnX)
 
 - 💬 Ask me about: **Java, Python, C, HTML, PHP, JavaScript,CSS**
 
