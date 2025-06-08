@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on: [Personal Profile](https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/)
+- 🔭 I’m currently working on: [Weather Services]([https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/](https://app-weather-app-gpe3zylq4tnqfu43nhj8y7.streamlit.app/))
 
 - 👨‍💻 All of my projects are available at: [Kenneth Tebogo Khondowe](https://github.com/KennethTebogo)
 
